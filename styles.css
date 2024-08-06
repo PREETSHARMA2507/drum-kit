@@ -1,10 +1,10 @@
 body {
   text-align: center;
   background-color: #283149;
-  background-image: url("./images/drum-drums-musical-instrument-stage-wallpaper-preview.jpg");
+  background-image: url("drum-drums-musical-instrument-stage-wallpaper-preview.jpg");
   background-repeat: no-repeat;
   background-size: 250vh;
-  back
+  
 }
 
 h1 {
@@ -23,32 +23,32 @@ footer {
 
 .w {
 
-  background-image:url("./images/tom1.png") ;
+  background-image:url("tom1.png") ;
 }
 
 .a {
-  background-image:url("./images/tom2.png") ;
+  background-image:url("tom2.png") ;
 }
 
 .s {
-  background-image:url("./images/tom3.png") ;
+  background-image:url("tom3.png") ;
 }
 
 .d {
   
-  background-image: url("./images/tom4.png");
+  background-image: url("tom4.png");
 }
 
 .j {
-  background-image: url("./images/crash.png");
+  background-image: url("crash.png");
 }
 
 .k {
-  background-image: url("./images/kick.png");
+  background-image: url("kick.png");
 }
 
 .l {
-  background-image: url("./images/snare.png");
+  background-image: url("snare.png");
 }
 
 .set {
