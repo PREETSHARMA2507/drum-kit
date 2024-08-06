@@ -6,7 +6,7 @@ for(var i=0;i<num;i++){
        
         switch (buttonInner) {
         case "a":
-            var audi=new Audio("./tom-1.mp3");
+            var audi=new Audio("tom-1.mp3");
             audi.play();
             
             break;
@@ -27,7 +27,7 @@ for(var i=0;i<num;i++){
                     
             break; 
         case "d":
-            var tom4=new Audio("./tom-4.mp3");
+            var tom4=new Audio("tom-4.mp3");
             tom4.play();
                         
              break;
