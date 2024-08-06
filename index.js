@@ -27,7 +27,7 @@ for(var i=0;i<num;i++){
                     
             break; 
         case "d":
-            var tom4=new Audio("sounds/tom-4.mp3");
+            var tom4=new Audio("./tom-4.mp3");
             tom4.play();
                         
              break;
